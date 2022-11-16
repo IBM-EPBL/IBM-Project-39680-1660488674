@@ -60,7 +60,7 @@ GOWTHAM.M
   - [x] Install IBM Cloud CLI 
   - [ ] Docker CLI Installation
   - [ ] Create an Account in SendGrid 
-  - [ ] Create an Account in Nutrition API
+  
 
 - [x] Project Development Phase
   - [x] Sprint 1
